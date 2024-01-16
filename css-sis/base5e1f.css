@@ -1,0 +1,9 @@
+/*general*/
+/*form label {font-weight:700 !important;}*/
+form input.is-invalid, form select.is-invalid, form textarea.is-invalid {color: #721c24 !important; background-color: #f8d7da; border-color: #e7b1b7 !important;}
+form .is-invalid::placeholder, form .is-invalid::-webkit-input-placeholder {color: #721c24 !important;}
+.validate-msg{display:none;}
+/*.img-height-70{max-width: 100%;max-height: 70px;}*/
+/*.img-height-50{max-width: 100%; max-height: 50px;}*/
+/*Recaptcha*/
+.grecaptcha-badge {visibility: hidden;}
